@@ -1,6 +1,5 @@
-## Hi there 👋
+![header]https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Sunwoo's😄🌱 &fontSize=50
 
-# 박선우😄
 **⚡자기소개⚡**
 항상 잘 부탁드립니다!
 
@@ -24,7 +23,4 @@ print('hello')
 **인사 :** `Hello`
 ---
 # 링크/이미지💬
-[github](https://github.com/17season/FirstRepository)
-
-![이미지](https://picsum.photos/200/300/)
-
+[github](https://github.com/17season/)
