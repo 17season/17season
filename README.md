@@ -23,4 +23,4 @@ print('hello')
 **인사 :** `Hello`
 ---
 # 링크/이미지💬
-[github](https://github.com/17season/)
+[박선우](https://github.com/17season/)
