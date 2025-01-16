@@ -1,4 +1,4 @@
-![header]https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Sunwoo's😄🌱 &fontSize=50
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Sunwoo%27s%F0%9F%98%84%F0%9F%8C%B1&fontSize=50)
 
 **⚡자기소개⚡**
 항상 잘 부탁드립니다!
